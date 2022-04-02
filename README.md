@@ -66,7 +66,7 @@ docker build -f ./Dockerfile --force-rm -t technobre/demo-dotnet-serilog-aws-clo
 
 ### Run container
 ```bash
-docker run -d --name=demo-dotnet-serilog-aws-cloudwatch -p 801:80 -t technobre/demo-dotnet-serilog-aws-cloudwatch .
+docker run -d --name=demo-dotnet-serilog-aws-cloudwatch -p 802:80 -t technobre/demo-dotnet-serilog-aws-cloudwatch .
 ```
 
 
