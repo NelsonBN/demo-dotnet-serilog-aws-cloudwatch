@@ -51,8 +51,8 @@ Demo .NET with Serilog and AWS CloudWatch
 ...
 ```
 
-- Use the key `Logging.Region` the set the AWS region for CloudWatch.
-- Use the key `Logging.LogGroup` the set group name for logs in CloudWatch.
+- Use the key `Serilog.Region` the set the AWS region for CloudWatch.
+- Use the key `Serilog.LogGroup` the set group name for logs in CloudWatch.
 
 
 
